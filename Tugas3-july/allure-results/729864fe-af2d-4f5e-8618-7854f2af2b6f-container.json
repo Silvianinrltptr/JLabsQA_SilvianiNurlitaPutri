@@ -1,0 +1,1 @@
+{"uuid":"729864fe-af2d-4f5e-8618-7854f2af2b6f","name":"qaautomation.Tugas3_juli.BaseWebYopmailTest.openUrl","description":"","start":1659842772296,"stop":1659842783341,"children":["2ab860bb-ee91-4d0c-9c31-1dcb49e9f07c"],"befores":[{"name":"openUrl","status":"passed","stage":"finished","description":"","start":1659842772302,"stop":1659842783339}]}

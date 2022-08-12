@@ -1,0 +1,1 @@
+{"uuid":"2b469ede-fcb4-4a2d-a5f8-1b219bac5020","name":"qaautomation.Tugas4_juli.BaseWebSaucedemo.openUrl","description":"","start":1660287531751,"stop":1660287535208,"children":["bfd697e3-c4e0-473c-8799-e2339be647a1"],"befores":[{"name":"openUrl","status":"passed","stage":"finished","description":"","start":1660287531751,"stop":1660287535208}]}
