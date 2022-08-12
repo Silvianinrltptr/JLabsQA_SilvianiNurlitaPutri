@@ -37,8 +37,4 @@ Descriptions :
 ## Task 7 (Jmeter test)
 Descriptions :
 - Upload .jmx to the task repository containing
-- Simple load test
-- Data-driven load test
-- GraphQL beban load test
-- Surge load test
-- Database load tes
+- Simple load test, Data-driven load test, GraphQL beban load test, Surge load test and Database load tes.
