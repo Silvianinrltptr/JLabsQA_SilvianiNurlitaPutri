@@ -87,13 +87,14 @@ public class Runer {
 		System.out.println("Press 3. Pembagian");
 		System.out.println("Press 4. Perkalian");
 		System.out.println("Press 5. Modulus");
-		System.out.println("Press 6. Keluar");
+		System.out.println("Press 6+. Keluar");
 		System.out.println("*****************************************");
 	}
 
 	
 	static void exit(){
 		System.out.println("\n*****************************************");
+		System.out.println("Keluar");
 		System.out.println("$ Terima kasih telah mencobanya :) ");
 		System.out.println("*****************************************");
 		System.exit(0);
